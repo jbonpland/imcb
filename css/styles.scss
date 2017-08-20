@@ -2,8 +2,8 @@
 	outline: 1px solid red;
 }*/
 
-$bckg: white;
-$bckg2: grey;
+$bckg: lightsalmon;
+$bckg2: lightgreen;
 
 
 .navbar .navbar-nav {
@@ -19,4 +19,10 @@ $bckg2: grey;
 
 
 
+#projects{
+	background: $bckg;
+}
+#contact{
+	background: $bckg2;
+}
 
